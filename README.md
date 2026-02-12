@@ -19,7 +19,15 @@ Welcome to the backend repository for TravelWise, a modern, feature-rich travel 
 ## Technology Stack
 
 * **Backend**: Java, Spring Boot, Spring Security
-* **Database**: MySQL (Local) / PostgreSQL (Deployed)
+* **Database**: MySQL (Local) 
 * **Frontend**: React.js
 * **Authentication**: JSON Web Tokens (JWT)
-* **Deployment**: Backend on Render, Frontend on Netlify
+* **Deployment**: Backend & Frontend on localHost
+
+---
+
+## Screenshots
+
+![Dashboard](https://github.com/Aishwarya04R/travelwise-backend-render/blob/main/HomePage1.png)
+
+  
